@@ -1,5 +1,5 @@
 # Fake it until you make it , project
-## let fake(🍎) => [live](https://sebastianlujan.github.io/apple-gradients)
+## let fake(🍎) => [live](https://sebastianlujan.github.io/index.html)
 
 Original project specification at: https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients
 
